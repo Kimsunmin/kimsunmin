@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sunmin%20kim&fontSize=90)
 
 안녕하세요! 👋🏼<br>
-주로 java/spring 또는 node/nest.js을 사용하는 백엔드 개발자입니다!<br>
-개인적으로는 node.js을 활용한 백엔드 개발을 공부하고 있습니다.
+NestJS를 주로 사용 합니다.<br>
 
 <br>
 <br>
