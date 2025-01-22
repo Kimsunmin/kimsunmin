@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sunmin%20kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=김%20선민%20입니다.&fontSize=100)
 
 안녕하세요! 👋🏼<br>
 NestJS를 주로 사용 합니다.<br>
