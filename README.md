@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=김%20선민%20입니다.&fontSize=100)
-
 안녕하세요! 👋🏼<br>
 NestJS를 주로 사용 합니다.<br>
 
-<br>
 <br>
 <br> 
 
@@ -17,7 +14,7 @@ NestJS를 주로 사용 합니다.<br>
 ##### 👍데이터 베이스!
 <img alt="Csharp" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Csharp" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Csharp" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
 
-##### 👍리눅스!
+##### 👍 OS!
 <img alt="Csharp" src ="https://img.shields.io/badge/centos-262577.svg?&style=for-the-badge&logo=centos&logoColor=white"/> <img alt="Csharp" src ="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> ➕ <img alt="Csharp" src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <!--
 **Kimsunmin/kimsunmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
